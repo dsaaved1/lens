@@ -12,3 +12,4 @@ module.exports = {
   },
   dialog: jest.fn()
 };
+//you should put more comments in your work
